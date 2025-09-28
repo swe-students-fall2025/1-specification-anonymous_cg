@@ -5,6 +5,7 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 Gavin Guo [GavinGuoSZ](https://github.com/GavinGuoSZ)
+Christine Jin [Christine-Jin](https://github.com/Christine-Jin)
 See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
 
 ## Stakeholders
@@ -49,7 +50,12 @@ User Stories
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+1. "As a user with dietary restrictions, I want to exclude certain food like allergies so I can receive safe food options."
+<img width="1367" height="3840" alt="Untitled diagram | Mermaid Chart-2025-09-28-185202" src="https://github.com/user-attachments/assets/1e865030-1421-45ae-9b54-59f22d9a4894" />
+
+2. "As a fitness enthusiast, I want diet suggestions that record clear calories and protein information."
+<img width="2214" height="3840" alt="Untitled diagram | Mermaid Chart-2025-09-28-192050" src="https://github.com/user-attachments/assets/e091778b-1064-4969-bb76-e467c9b7d5d8" />
+
 
 ## Clickable Prototype
 
