@@ -6,7 +6,7 @@ A little exercise to get started with the specification phase of the software de
 
 Gavin Guo [GavinGuoSZ](https://github.com/GavinGuoSZ)
 Christine Jin [Christine-Jin](https://github.com/Christine-Jin)
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+Siqi Zhu[HelenZhutt](https://github.com/HelenZhutt)
 
 ## Stakeholders
 
@@ -59,4 +59,4 @@ User Stories
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+https://www.figma.com/design/Sjz43jNGwHhblzI6Ycj4e9/Project-1?node-id=0-1&t=RtRIspZwZZxKZb7g-1
