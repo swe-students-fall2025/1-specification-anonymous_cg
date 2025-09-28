@@ -7,6 +7,7 @@ A little exercise to get started with the specification phase of the software de
 Gavin Guo [GavinGuoSZ](https://github.com/GavinGuoSZ)
 Christine Jin [Christine-Jin](https://github.com/Christine-Jin)
 Siqi Zhu[HelenZhutt](https://github.com/HelenZhutt)
+Haonan Cai [HaonanCai]
 
 ## Stakeholders
 
@@ -39,9 +40,9 @@ To help user achive their fitness goals by providing personalized diet recommend
 User Stories
 1. As a user with dietary restrictions, I want to exclude certain food like allergies so I can receive safe food options.
 2. As a student on budget, I need affordable meal suggestion to stay healthy without overspending.
-3. As a person with busy schedule, I need quick and healthy meal recommendation so to eat with little time.
+3. As a working professional, I want short workout options so I can fit exercise into my lunch break.
 4. As a user that frequents gym, I want to set a target body fat percentage that reflects my current progress.
-5. As a night owl, I want healthy snacks so to avoid junk food at night.
+5. As a morning person, I want my fitness plans in morning so that I can start strong and energized.
 6. As some that struggles to keep a regular schedule, I need flexible meal suggestions that supports skipped or late meals.
 7. As an elderly, I want the app to track sodium and sugar intake so to manage my heart and blood pressure.
 8. As a self-reflective user, I want weekly reports on diet and fitness.
