@@ -7,7 +7,7 @@ A little exercise to get started with the specification phase of the software de
 Gavin Guo [GavinGuoSZ](https://github.com/GavinGuoSZ)
 Christine Jin [Christine-Jin](https://github.com/Christine-Jin)
 Siqi Zhu[HelenZhutt](https://github.com/HelenZhutt)
-Haonan Cai [HaonanCai] (https://github.com/TogawaSaki0214)
+Haonan Cai [HaonanCai](https://github.com/TogawaSaki0214)
 
 ## Stakeholders
 
